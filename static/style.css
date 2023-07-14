@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://images.pexels.com/photos/17505897/pexels-photo-17505897/free-photo-of-nebulosa-del-iris.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    
+}
+
+.titulo {
+    color: aqua;
+    text-align: center;
+    font-size: 6rem;
+    margin-bottom: 1rem;
+}
+
+.subtitulo {
+    text-align: center;
+    font-size: 3rem;
+    color: beige;
+} 
+
+.texto {
+    color: aliceblue;
+    font-size: 2rem;
+}
+
